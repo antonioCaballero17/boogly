@@ -62886,7 +62886,7 @@ $0(){return J.dg(A.fV(this.a,!1,t.v),new A.lc(this.b.b))},
 $S:0}
 A.Cu.prototype={
 J(a){var s=t.v
-return A.no(new A.T2("https%3A%5C%5Cboogly.caballeroapps.com \xa1He conseguido "+A.aaK(A.fV(a,!1,s).c.a)+" puntos en Boggly! \xbfTe atreves a superarme?"),s,t.fT)}}
+return A.no(new A.T2("https%3A%2F%2Fantoniocaballero17.github.io%2Fboogly%2F \xa1He conseguido "+A.aaK(A.fV(a,!1,s).c.a)+" puntos en Boggly! \xbfTe atreves a superarme?"),s,t.fT)}}
 A.T2.prototype={
 $2(a,b){var s,r,q,p,o,n=null
 if(b.f){s=b.a
@@ -62909,7 +62909,7 @@ A.SZ.prototype={
 $0(){return A.a96("https://api.whatsapp.com/send?text="+this.a)},
 $S:0}
 A.T_.prototype={
-$0(){return A.a96("https://t.me/share/url?url=https://boogly.caballeroapps.com&text="+this.a)},
+$0(){return A.a96("https://t.me/share/url?url=https://antoniocaballero17.github.io/boogly/&text="+this.a)},
 $S:0}
 A.T0.prototype={
 $0(){return J.dg(A.fV(this.a,!1,t.v),new A.ki())},
